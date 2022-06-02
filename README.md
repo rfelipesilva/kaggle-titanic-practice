@@ -5,6 +5,7 @@ PROJECT STATUS: IN-PROGRESS
 > - Use titanic kaggle dataset
 > - use PyCaret (autoMl, model validation)
 > - Submission in the kaggle platform
+> - Docker and/or binder to facilitate deployment
 
 ### Current score
 > PLACE TO SHARE POSITION AND SCORING
