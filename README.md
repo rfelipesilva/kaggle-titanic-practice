@@ -4,6 +4,7 @@ PROJECT STATUS: IN-PROGRESS
 ### Plan
 > - Use titanic kaggle dataset
 > - use PyCaret (autoMl, model validation)
+> - SHAP to explain model output? [SHAP](https://github.com/slundberg/shap)
 > - Submission in the kaggle platform
 > - Docker and/or binder to facilitate deployment
 
