@@ -21,8 +21,9 @@ PROJECT STATUS: IN-PROGRESS
 ### To start playing with this analysis, there are two things you need to do:
 IN-PROGRESS
 
-### Historic
-||Version||Score||Leaderboard||File||
+### Historic/Versioning
+|Version|Score|Leaderboard|File|
+|-------|-----|-----------|----|
 |v1|0.76555|9557|submission-12-11-2022.csv|
 |v2|0.77033|9090|submission-12-12-2022.csv|
 
