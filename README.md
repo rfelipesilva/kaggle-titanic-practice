@@ -1,9 +1,10 @@
 # kaggle-titanic-practice
-PROJECT STATUS: IN-PROGRESS
+Practicing some data science...
+Status: in-progress
 
 ### Plan
 > - Use titanic kaggle dataset
-> - use PyCaret (autoMl, model validation)
+> - use [PyCaret](https://pycaret.gitbook.io/docs/) (autoMl, model validation)
 > - SHAP to explain model output? [SHAP](https://github.com/slundberg/shap)
 > - Submission in the kaggle platform
 > - Docker and/or binder to facilitate deployment
